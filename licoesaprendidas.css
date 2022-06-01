@@ -1,0 +1,97 @@
+* {
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Open Sans' , sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+.menu{
+    padding: 30px;
+    background-color: rgb(250, 247, 247);
+    text-align: center;
+    
+}
+img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 40px;
+    width: 25%;
+    border-radius: 50px;
+}
+.imagem{
+    border-radius: 100px;
+}
+footer{
+    background-color: rgb(250, 245, 245);
+    text-align: center;
+    margin-top: 100px;
+    padding: 60px;
+}
+.conhecimento{
+    font-style:bold;
+    display: inline-block;
+    width: 97%;
+    margin: 1.5%;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    border: 5px solid #c2c0c2;
+    background-color: #c2c0c2;
+    border-radius: 10px;
+    text-align: center;
+}
+h1, h2{
+    color: rgb(11, 10, 10);
+    padding: 20px;
+    text-align: center;
+}
+.section{
+    margin-top: 10px;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+}
+
+.menu2{
+    text-align: center;
+    color: #f4eef3;
+}
+.contato {  
+    background-color: rgb(203, 202, 202);
+    display: flex;
+    justify-content:space-evenly;;
+}
+.logo { 
+    padding: 50px;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 5px;
+    margin-inline-end: 10px;
+    padding-inline-start: px;
+}
+div {
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+
+
+
+/*<div style="border: 3px solid #938DF8">*/ 
+/*.img{
+    display: inline-block; 
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #c2c0c2;
+    background-color: #c2c0c2;
+    border-radius: 10px;
+} */
